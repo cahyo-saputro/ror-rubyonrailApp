@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nama: MyString
+  status: MyString
+  noid: 1
+  height: 1.5
+  weight: 1.5
+
+two:
+  nama: MyString
+  status: MyString
+  noid: 1
+  height: 1.5
+  weight: 1.5
