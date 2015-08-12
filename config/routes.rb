@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :customers
+  resources :orders
   get 'about', to: 'about#index'
 
   resources :members
